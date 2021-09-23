@@ -8,6 +8,7 @@ The App was color-coded to designate three different types of users (Donators, I
 
 In this repo, you can find some artifacts of this projects, such as:
 
+* The [Project Brief] (https://github.com/pradoprojects/DonActor/blob/main/Brief_DonActor_App.pdf)
 * [Interview script](https://docs.google.com/presentation/d/1STuZEM4SETgfzpwVXN8f-2GuD-KmfjTAmX0J-9QQeL0/edit?usp=sharing)
 * [Interview Notes (Anonymized)](https://docs.google.com/presentation/d/11S2D7bJ9aGsxthUwOCUFWgvwoPMikIBEmnoIRszOG0M/edit?usp=sharing)
 * [Miro board](https://miro.com/welcomeonboard/bHkxUkVJS1hnSUdvaDNuYmVBN2VJV3JDRGoybkJYUUlPWXdHYUh2VHlKd3FWQ3JaQXJPVkp5VkNmbHUwVW5NV3wzMDc0NDU3MzU3MTMzNTM3Mjc1?invite_link_id=191683894107) (containing notes, emphaty map, pain-points, ideas, list of actors, features lists, user flows, user journey maps and wireframes).
