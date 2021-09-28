@@ -13,6 +13,7 @@ In this repo, you can find some artifacts of this projects, such as:
 * [Interview Notes (Anonymized)](https://docs.google.com/presentation/d/11S2D7bJ9aGsxthUwOCUFWgvwoPMikIBEmnoIRszOG0M/edit?usp=sharing)
 * [Miro board](https://miro.com/welcomeonboard/bHkxUkVJS1hnSUdvaDNuYmVBN2VJV3JDRGoybkJYUUlPWXdHYUh2VHlKd3FWQ3JaQXJPVkp5VkNmbHUwVW5NV3wzMDc0NDU3MzU3MTMzNTM3Mjc1?invite_link_id=191683894107) (containing notes, emphaty map, pain-points, ideas, list of actors, features lists, user flows, user journey maps and wireframes).
 * [Figma file](https://www.figma.com/community/file/1022656211221255293/DonActor) (containing the Hi-fidelity prototype)
+* [Pitch Deck Presentation](https://my.visme.co/view/vdk70e63-marllos-pitch-deck-presentation#s16)
 
 Feel free to get in contact for more information.
 
