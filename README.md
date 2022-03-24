@@ -1,5 +1,16 @@
 # 📱 → 🎁 | WorldCitizen DonActor 
 
+<br/>
+<div align="center">                                                             
+  <img src="./LetMhelp!Compact.svg" alt="Project APB thumbnail">
+</div>  
+<br/>
+
+<section>
+<div align="justify">
+<br/>
+
+
 DonActor App was my first project at Reskill Americans Program. The app was intended to facilitate the donation process of clothes. In this project, I conducted the five design thinking stages (Empathize, Define, Ideate, Prototype, Test). I designed the UX/UI for the app itself as well as the name and Logo. All the artifacts in this repo were designed in a time window of four weeks (average hours spent: 2 hours/business day)
 
 The project was intended to serve a fictional Non-profitable organization (World Citizen).
@@ -17,5 +28,6 @@ In this repo, you can find the following artifacts of this projects:
 
 Feel free to get in contact for more information.
 
+</section>
 
 
