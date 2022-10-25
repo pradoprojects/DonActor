@@ -22,7 +22,7 @@ In this repo, you can find the following artifacts of this projects:
 * [The Project Brief](https://github.com/pradoprojects/DonActor/blob/main/Brief_DonActor_App.pdf)
 * [Interview script](https://docs.google.com/presentation/d/1STuZEM4SETgfzpwVXN8f-2GuD-KmfjTAmX0J-9QQeL0/edit?usp=sharing)
 * [Interview Notes (Anonymized)](https://docs.google.com/presentation/d/11S2D7bJ9aGsxthUwOCUFWgvwoPMikIBEmnoIRszOG0M/edit?usp=sharing)
-* [Miro board](https://miro.com/welcomeonboard/bHkxUkVJS1hnSUdvaDNuYmVBN2VJV3JDRGoybkJYUUlPWXdHYUh2VHlKd3FWQ3JaQXJPVkp5VkNmbHUwVW5NV3wzMDc0NDU3MzU3MTMzNTM3Mjc1?invite_link_id=191683894107) (containing notes, emphaty map, pain-points, ideas, list of actors, features lists, user flows, user journey maps and wireframes).
+* [Miro board](https://miro.com/app/board/o9J_lKHqH0E=/?share_link_id=643556631115) (containing notes, emphaty map, pain-points, ideas, list of actors, features lists, user flows, user journey maps and wireframes).
 * [Figma file](https://www.figma.com/community/file/1022656211221255293/DonActor) (Low-fidelity prototype)
 * [Pitch Deck Presentation](https://my.visme.co/view/vdk70e63-marllos-pitch-deck-presentation)
 
