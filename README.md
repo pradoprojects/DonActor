@@ -24,7 +24,7 @@ In this repo, you can find the following artifacts of this projects:
 * [Interview Notes (Anonymized)](https://docs.google.com/presentation/d/11S2D7bJ9aGsxthUwOCUFWgvwoPMikIBEmnoIRszOG0M/edit?usp=sharing)
 * [Miro board](https://miro.com/app/board/o9J_lKHqH0E=/?share_link_id=643556631115) (containing notes, emphaty map, pain-points, ideas, list of actors, features lists, user flows, user journey maps and wireframes).
 * [Figma file](https://www.figma.com/community/file/1022656211221255293)(Low-fidelity prototype)
-* [Pitch Deck Presentation](https://my.visme.co/view/vdk70e63-marllos-pitch-deck-presentation)
+
 
 Feel free to get in contact for more information.
 
